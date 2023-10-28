@@ -41,7 +41,7 @@ First, either clone or download zip file of the project. Then, there are 2 ways 
     
 2. Run the WelcomeScreen class:
    
-    If you already have Java IDEs like Eclipse or Intellij, open the folder using such IDEs and _run the WelcomeScreen class under gui package_. Also remember to _include JRE System Library_.
+    If you already have Java IDEs like Eclipse or Intellij, open the folder using such IDEs and _run the WelcomeScreen class under gui package_. Also remember to _include JRE System Library **(its a must)**_.
 
 # Class diagram representation
 There are 8 classes in total in 3 different packages. The image below describe the relationship of those classes using UML relationship sign:
