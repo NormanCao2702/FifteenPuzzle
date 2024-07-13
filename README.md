@@ -48,11 +48,6 @@ There are 8 classes in total in 3 different packages. The image below describe t
 
 ![15 Puzzle Class Diagram](https://github.com/NormanCao2702/FifteenPuzzle/assets/118385554/3c391a50-fa2f-4547-aeb5-f429ee891936)
 
-# Contact
-Name: Tran Quang Ngoc Cao
-
-Email: tqc@sfu.ca
-
 **Enjoy the game!**
 
 ![angry-cat](https://github.com/NormanCao2702/FifteenPuzzle/assets/118385554/82c5f2fc-a8ed-4a1b-a7b4-945c532bf81c)
